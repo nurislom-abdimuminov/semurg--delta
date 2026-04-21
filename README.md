@@ -20,7 +20,7 @@ designed specifically for the Uzbek language.
 | Model | Accuracy | Parameters |
 |-------|----------|------------|
 | BERT-base | 91.09% | 110M |
-| | Semurg' Delta V2 | 91.61% | 8M | |
+|Semurg' Delta V2 | 91.61% | 8M  |
 
 ## Architecture
 
